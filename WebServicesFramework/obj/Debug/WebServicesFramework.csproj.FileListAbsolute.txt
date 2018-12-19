@@ -1,0 +1,79 @@
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\WebServicesFramework.exe.config
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\NUnit3.TestAdapter.dll
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\NUnit3.TestAdapter.pdb
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\nunit.engine.dll
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\nunit.engine.api.dll
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\WebServicesFramework.exe
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\WebServicesFramework.pdb
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\Newtonsoft.Json.dll
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\nunit.framework.dll
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\RestSharp.dll
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\Newtonsoft.Json.pdb
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\Newtonsoft.Json.xml
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\nunit.framework.pdb
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\nunit.framework.xml
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\RestSharp.xml
+f:\projects\WebServicesFramework\WebServicesFramework\obj\Debug\WebServicesFramework.exe
+f:\projects\WebServicesFramework\WebServicesFramework\obj\Debug\WebServicesFramework.pdb
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\MimeTypesMap.dll
+f:\projects\WebServicesFramework\WebServicesFramework\obj\Debug\WebServicesFramework.csprojResolveAssemblyReference.cache
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\ExtentReports.dll
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\HtmlAgilityPack.dll
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\MongoDB.Bson.dll
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\MongoDB.Driver.Core.dll
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\MongoDB.Driver.dll
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\RazorEngine.dll
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\System.Web.Razor.dll
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\HtmlAgilityPack.pdb
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\HtmlAgilityPack.xml
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\MongoDB.Bson.xml
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\MongoDB.Driver.xml
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\MongoDB.Driver.Core.xml
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\RazorEngine.xml
+f:\projects\WebServicesFramework\WebServicesFramework\bin\Debug\System.Web.Razor.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\WebServicesFramework.exe.config
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\obj\Debug\WebServicesFramework.exe
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\obj\Debug\WebServicesFramework.pdb
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\NUnit3.TestAdapter.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\NUnit3.TestAdapter.pdb
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\nunit.engine.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\nunit.engine.api.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\WebServicesFramework.exe
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\WebServicesFramework.pdb
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\ExtentReports.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\HtmlAgilityPack.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\MimeTypesMap.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\MongoDB.Bson.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\MongoDB.Driver.Core.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\MongoDB.Driver.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\Newtonsoft.Json.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\nunit.framework.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\RazorEngine.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\RestSharp.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\System.Net.Http.Extensions.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\System.Net.Http.Primitives.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\System.Web.Razor.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\unirest-net.dll
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\HtmlAgilityPack.pdb
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\HtmlAgilityPack.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\Microsoft.Threading.Tasks.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\MongoDB.Bson.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\MongoDB.Driver.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\MongoDB.Driver.Core.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\Newtonsoft.Json.pdb
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\Newtonsoft.Json.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\nunit.framework.pdb
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\nunit.framework.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\RazorEngine.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\RestSharp.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\System.Net.Http.Extensions.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\System.Net.Http.Primitives.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\bin\Debug\System.Web.Razor.xml
+F:\projects\WebServicesFramework - Copy\WebServicesFramework\obj\Debug\WebServicesFramework.csprojResolveAssemblyReference.cache
